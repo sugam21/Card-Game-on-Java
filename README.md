@@ -24,12 +24,12 @@ It consists of following functions:
 It consists of menue to navigate through various options in game:
 <pre>
 ****************  CARD GAME  **************** 
-Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit. <br>
-----------------------------------------------<br>
+Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit.
+----------------------------------------------
 1️⃣ Create a deck                5️⃣ Same Cards<br>
 2️⃣ Print the deck               6️⃣ Find Cards<br>
 3️⃣ Print a Card                 7️⃣ Deal Cards<br>
 4️⃣ Compare two Cards            8️⃣ Shuffle Deck<br>
-----------------------------------------------<br>
+----------------------------------------------
 Choice ➡️
   </pre>
