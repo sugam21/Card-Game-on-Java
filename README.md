@@ -4,12 +4,12 @@ This program contains 4 files
 - Operations.java
 - Deck.java
 - Card.java
-### Card.java
+### ✅Card.java
 It is a class file containing suit and card as private variable, public variables for all suits for emoji along with constructor, getter and setter methods.
-### Deck.java
+### ✅Deck.java
 It consists of following functions:
 - createDeck -> Creates whole deck of cards. Deck is a vector which contains 4 vectors for suits and each suit contains Card object. This function returns a vector(whole deck).
-### Operations.java
+### ✅Operations.java
 It consists of following functions:
 - printDeck -> It takes vector of deck as input and prints the entire deck in order.
 - mapping -> Maps each emoji with the respective suit.
@@ -20,7 +20,7 @@ It consists of following functions:
 - shuffleDeck -> Uses the Collections.shuffle method from java util library which shuffles the entire deck.
 - findCard -> Asks user to input the suit and rank of the card and checks if the card is present in the deck or not.
 - dealCard -> Prints 5 random cards from the deck
-### Main.java
+### ✅Main.java
 It consists of menue to navigate through various options in game:
 <pre>
 Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit. <br>
