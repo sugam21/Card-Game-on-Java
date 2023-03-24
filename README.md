@@ -22,11 +22,11 @@ It consists of following functions:
 - dealCard -> Prints 5 random cards from the deck
 ### Main.java
 It consists of menue to navigate through various options in game:
-Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit.
+<!-- Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit.
 ----------------------------------------------.
 1️⃣ Create a deck               5️⃣ Same Cards.
 2️⃣ Print the deck              6️⃣ Find Cards.
 3️⃣ Print a Card                7️⃣ Deal Cards.
 4️⃣ Compare two Cards           8️⃣ Shuffle Deck.
-\----------------------------------------------.
-\Choice ➡️
+----------------------------------------------.
+Choice ➡️ -->
