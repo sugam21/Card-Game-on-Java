@@ -23,6 +23,7 @@ It consists of following functions:
 ### ✅Main.java
 It consists of menue to navigate through various options in game:
 <pre>
+"****************  CARD GAME  **************** 
 Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit. <br>
 ----------------------------------------------<br>
 1️⃣ Create a deck                5️⃣ Same Cards<br>
