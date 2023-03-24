@@ -25,10 +25,10 @@ It consists of menue to navigate through various options in game:
 <pre>
 Pick your choice (1️⃣-8️⃣) / 0️⃣ to exit. <br>
 ----------------------------------------------<br>
-1️⃣ Create a deck &nbsp               5️⃣ Same Cards<br>
-2️⃣ Print the deck  &nbsp            6️⃣ Find Cards<br>
-3️⃣ Print a Card         &nbsp       7️⃣ Deal Cards<br>
-4️⃣ Compare two Cards         &nbsp  8️⃣ Shuffle Deck<br>
+1️⃣ Create a deck                5️⃣ Same Cards<br>
+2️⃣ Print the deck               6️⃣ Find Cards<br>
+3️⃣ Print a Card                 7️⃣ Deal Cards<br>
+4️⃣ Compare two Cards            8️⃣ Shuffle Deck<br>
 ----------------------------------------------<br>
 Choice ➡️
   </pre>
